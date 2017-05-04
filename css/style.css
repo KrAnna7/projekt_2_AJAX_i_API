@@ -1,0 +1,32 @@
+* { box-sizing: border-box;
+}
+
+.main {
+	text-align: center;
+	background-color: #55acee;
+	color: white;
+	max-width: 1200px;
+	margin: 0 auto;
+	height: 100vh;
+	padding: 5vh;
+}
+.box {
+	margin: 12vh auto;
+}
+
+a {
+	color: white;
+	border: 2px outset white;
+	width: 200px;
+	display: block;
+	margin: 10vh auto;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.trigger {
+	background-color: #55acee;
+	width: 200px;
+}
